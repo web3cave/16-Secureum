@@ -4,7 +4,6 @@
 #########################
 
 siteTitle: "web3::cave"
-cacheMaxDays: 30
 
 
 # cacheUrl: https://GITHUB_USERNAME.github.io/REPO_NAME/cache.json
