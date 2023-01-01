@@ -4,7 +4,24 @@
       "title": "Secureum",
       "feedUrl": "https://secureum.substack.com/feed",
       "siteUrl": "https://secureum.substack.com",
-      "articles": []
+      "articles": [
+        {
+          "id": "https://secureum.substack.com/p/aave-certora-secureum-a-defi-security",
+          "author": null,
+          "description": "Part 2",
+          "link": "https://secureum.substack.com/p/aave-certora-secureum-a-defi-security",
+          "publishedOn": "2022-12-23T10:01:51.000Z",
+          "wordCount": null,
+          "title": "Aave-Certora-Secureum: A DeFi Security Collaboration",
+          "itunes": {},
+          "enclosure": {
+            "url": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f3f4ece-5964-4f89-9c35-8a2dc1a321a9_2560x1600.png",
+            "length": "0",
+            "type": "image/jpeg"
+          },
+          "imageUrl": "https://substackcdn.com/image/fetch/h_600,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F3f3f4ece-5964-4f89-9c35-8a2dc1a321a9_2560x1600.png"
+        }
+      ]
     }
   ],
   "cliVersion": "1.15.1"
