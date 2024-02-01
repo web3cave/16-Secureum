@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Secureum",
-      "feedUrl": "https://secureum.substack.com/feed",
-      "siteUrl": "https://secureum.substack.com",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
